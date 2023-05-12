@@ -1,7 +1,7 @@
 <template>
   <div class="home">
 
-
+  显示家
   </div>
 </template>
 
